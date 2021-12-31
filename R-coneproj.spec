@@ -4,7 +4,7 @@
 #
 Name     : R-coneproj
 Version  : 1.16
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/coneproj_1.16.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/coneproj_1.16.tar.gz
 Summary  : Primal or Dual Cone Projections with Routines for Constrained
@@ -37,10 +37,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1639423060
+export SOURCE_DATE_EPOCH=1640992192
 
 %install
-export SOURCE_DATE_EPOCH=1639423060
+export SOURCE_DATE_EPOCH=1640992192
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
