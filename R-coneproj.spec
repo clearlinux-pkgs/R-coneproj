@@ -4,7 +4,7 @@
 #
 Name     : R-coneproj
 Version  : 1.16
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/coneproj_1.16.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/coneproj_1.16.tar.gz
 Summary  : Primal or Dual Cone Projections with Routines for Constrained
