@@ -1,5 +1,5 @@
 PKG_NAME := R-coneproj
-URL = https://cran.r-project.org/src/contrib/coneproj_1.19.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/coneproj_1.20.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
